@@ -1,0 +1,10 @@
+Word,Type,Position,Time,Senti
+اچھی,Positive,10,4,37
+پسند,Positive,22,9,37
+پیکٹ,Negative,29,12,37
+قسم,Positive,34,14,37
+ہوا,Positive,36,15,37
+تازہ,Positive,45,19,37
+خستہ,Positive,47,19,37
+پسند,Positive,56,23,37
+اچھا,Positive,66,27,37

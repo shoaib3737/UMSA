@@ -1,0 +1,11 @@
+Model Name,Model Path,Accuracy,Precision,Recall,F1 Score
+LSTM,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_1_LSTM.h5,0.4782608695652174,0.3985507246376811,0.4782608695652174,0.3768783810859547
+Random Forest,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_2_RandomForest.joblib,0.4782608695652174,0.4656750572082379,0.4782608695652174,0.4144927536231884
+LSTM,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_1_LSTM.h5,0.4782608695652174,0.4668737060041407,0.4782608695652174,0.3724916387959865
+Random Forest,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_2_RandomForest.joblib,0.4782608695652174,0.4656750572082379,0.4782608695652174,0.4144927536231884
+LSTM,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_1_LSTM.h5,0.4782608695652174,0.5289855072463768,0.4782608695652174,0.3717965064388626
+Random Forest,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_2_RandomForest.joblib,0.3478260869565217,0.4328416149068322,0.3478260869565217,0.2943639291465378
+LSTM,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_1_LSTM.h5,0.4347826086956521,0.4826086956521739,0.4347826086956521,0.3503632798985122
+LSTM,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_1_LSTM.h5,0.4782608695652174,0.5289855072463768,0.4782608695652174,0.3717965064388626
+Random Forest,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_2_RandomForest.joblib,0.3478260869565217,0.4328416149068322,0.3478260869565217,0.2943639291465378
+LSTM,/content/drive/MyDrive/work2/Final/Old_audio_models/Audio_Model_1_LSTM.h5,0.5294117647058824,0.5891544117647058,0.5294117647058824,0.39735894357743096

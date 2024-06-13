@@ -1,0 +1,386 @@
+Text File,Actual Label,Predicted Label
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_8.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_9.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_12.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_13.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_14.jpg,2,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_36.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_37.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile_Neutral/1_frame_39.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_1.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_2.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_11.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_12.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_14.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_16.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_19.jpg,2,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_20.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_22.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_23.jpg,2,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_34.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_35.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_40.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_41.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_51.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_52.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_55.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_61.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_64.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_68.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_90.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_92.jpg,1,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Mobile__Positive_Product_Review/1_frame_96.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_0.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_2.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_6.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_10.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_12.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_13.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_19.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_23.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_24.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_28.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_44.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_48.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_51.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_55.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_62.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_63.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_65.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/1. Tea_Negative_Product_Review/1_frame_68.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_1.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_8.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_12.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_14.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_16.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_21.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_28.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_35.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_38.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_40.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Blasphemy_Negative_Perception_Building/10_frame_53.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_7.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_9.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_11.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_29.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_72.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_73.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_74.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_76.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_77.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_80.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_86.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_88.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_92.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/10. Political Extremisim_Negative_Perception_Building/10_frame_96.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_0.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_1.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_2.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_13.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_15.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_34.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_36.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Blasphemy_Negative_Perception_Building/11_frame_38.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_0.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_1.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_8.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_17.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_18.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_19.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_21.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_23.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_29.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_30.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_40.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_41.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_46.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_52.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_54.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_56.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/11. Political Extremisim_Negative_Perception_Building/11_frame_62.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_28.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_29.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_30.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_44.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_46.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_47.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_68.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_69.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_75.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_79.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Communication_Neutral_Perception Building/2_frame_93.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_2.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_13.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_24.jpg,1,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_32.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_41.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_46.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_74.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_77.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_78.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Mobile_Positive_Product_Review/2_frame_82.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_0.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_5.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_11.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_12.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_15.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_17.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_23.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_26.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_29.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_37.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_38.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/2. Tea_Negative_Product_Review/2_frame_40.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Communication_Neutral_Perception Building/3_frame_0.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Communication_Neutral_Perception Building/3_frame_26.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Communication_Neutral_Perception Building/3_frame_28.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Communication_Neutral_Perception Building/3_frame_32.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Communication_Neutral_Perception Building/3_frame_41.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_0.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_6.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_7.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_8.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_12.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_14.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_21.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_25.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_28.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_32.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_37.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_46.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_48.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_53.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_61.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_62.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_72.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_76.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_79.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_81.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_85.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_86.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_95.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_98.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_99.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_105.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_110.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_113.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_117.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_127.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_133.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_136.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_141.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_147.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_152.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_155.jpg,2,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_160.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. ICE_Negative_Product_Review/3_frame_161.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Mobile_Positive_Product_Review/3_frame_3.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Mobile_Positive_Product_Review/3_frame_12.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Mobile_Positive_Product_Review/3_frame_15.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Mobile_Positive_Product_Review/3_frame_22.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/3. Mobile_Positive_Product_Review/3_frame_25.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_5.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_10.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_16.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_20.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_28.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_29.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_40.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_42.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_44.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_53.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_54.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_56.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_64.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Negative_Product_Review/4_frame_66.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_1.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_3.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_8.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_17.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_18.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_26.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_33.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_36.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_44.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_46.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_48.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_50.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_55.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_57.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_58.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_60.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_63.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_64.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_67.jpg,2,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_69.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_74.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_75.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_79.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_82.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. ICE_Neutral_Product_Review/4_frame_83.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_11.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_17.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_19.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_20.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_23.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_26.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_30.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_40.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_43.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/4. Olive Oil_Positive_Product_Review/4_frame_48.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_6.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_10.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_14.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_21.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_24.jpg,1,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_26.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_34.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_43.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_45.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Blasphemy_Neutral_Perception_Building/5_frame_52.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_1.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_5.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_6.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_14.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_15.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_17.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_19.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_20.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_30.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. Honor Killing_Negative_Perception_Building/5_frame_31.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. ICE_Positive_Product_Review/5_frame_2.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. ICE_Positive_Product_Review/5_frame_3.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. ICE_Positive_Product_Review/5_frame_4.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. ICE_Positive_Product_Review/5_frame_7.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. ICE_Positive_Product_Review/5_frame_19.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. ICE_Positive_Product_Review/5_frame_21.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5. ICE_Positive_Product_Review/5_frame_25.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_1.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_18.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_19.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_20.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_32.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_44.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_46.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_53.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_59.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_69.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_77.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/5.ICE_Negative_Product_Review/5_frame_83.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_6.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_15.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_16.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_17.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_24.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_28.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_32.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_37.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_42.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_45.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_53.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_55.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_57.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_61.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_62.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_65.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_66.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_70.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Honor_Killing_Negative_Perception_Building/6_frame_73.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_4.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_7.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_9.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_13.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_14.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_20.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_25.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_32.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_38.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. ICE_Positive_Product_Review/6_frame_44.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_2.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_6.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_10.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_11.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_24.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_25.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_29.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_31.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_34.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_37.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_38.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_39.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_42.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_43.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_54.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/6. Social Media_Neutral_Perception_Building/6_frame_59.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_2.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_7.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_8.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_12.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_14.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_22.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_24.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_28.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_29.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_32.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_33.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_34.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_37.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_38.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_44.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_45.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_46.jpg,1,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_47.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_49.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_51.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Blasphemy_Negative_Perception_Building/7_frame_52.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Political Extremisim_Neutral_Perception_Building/7_frame_2.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Political Extremisim_Neutral_Perception_Building/7_frame_5.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Political Extremisim_Neutral_Perception_Building/7_frame_9.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Political Extremisim_Neutral_Perception_Building/7_frame_11.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Political Extremisim_Neutral_Perception_Building/7_frame_19.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Political Extremisim_Neutral_Perception_Building/7_frame_23.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/7. Political Extremisim_Neutral_Perception_Building/7_frame_25.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_6.jpg,2,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_7.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_16.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_19.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_23.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_25.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_29.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_38.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_42.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Negative_Perception_Building/8_frame_53.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_1.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_3.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_5.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_11.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_12.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_23.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_30.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_32.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_56.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_59.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_65.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_69.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_75.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_82.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_93.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_110.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_113.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_116.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_118.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_122.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_126.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_131.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_132.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_135.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_139.jpg,0,0
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_141.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_144.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_148.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_152.jpg,0,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Communication_Positive_Perception_Building/8_frame_154.jpg,0,2
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Neutral_Perception_Building_by_Imran/8_frame_3.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Neutral_Perception_Building_by_Imran/8_frame_6.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Neutral_Perception_Building_by_Imran/8_frame_10.jpg,2,1
+/content/drive/MyDrive/work2/Validation_Data/Validation_All_Frames/8. Blasphemy_Neutral_Perception_Building_by_Imran/8_frame_17.jpg,1,1

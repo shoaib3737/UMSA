@@ -1,0 +1,7 @@
+Modality,Sentiment,Percentage,Considered Sentiment
+Audio Model 1,positive,0.42896712,positive
+Audio Model 2,negative,0.44,negative
+Text Model 1,negative,0.95544726,negative
+Text Model 2,negative,0.999998725931368,negative
+Video Model 1,positive,0.4706761,positive
+Video Model 2,negative,0.3651041666666667,negative
