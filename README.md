@@ -50,7 +50,7 @@ UMSA achieves **>80% classification accuracy** on the USD dataset using multi-mo
 
 ## Dataset , Models and Code
 
-The Datasets, Models and Code is available on :
+The detail of Datasets, Models and Code is available on :
 https://www.kaggle.com/datasets/shoaib837/urdu-sentiments-dataset-usd
 
 ---
