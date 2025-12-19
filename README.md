@@ -48,6 +48,11 @@ UMSA offers:
 
 UMSA achieves **>80% classification accuracy** on the USD dataset using multi-modal integration. Validation on external datasets (`USCv1`, `UrduTweets`) showed expected drop in performance due to modality mismatch.
 
+## Dataset , Models and Code
+
+The Datasets, Models and Code is available on :
+https://www.kaggle.com/datasets/shoaib837/urdu-sentiments-dataset-usd
+
 ---
 
 ## 📁 Repository Structure
