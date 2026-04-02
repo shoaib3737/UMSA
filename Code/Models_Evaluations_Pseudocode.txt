@@ -1,0 +1,1066 @@
+
+--- Cell 1 Pseudocode ---
+# prompt: mount google drive
+
+
+--- Cell 2 Pseudocode ---
+import shutil
+import os
+# Source and destination paths
+# Create destination folder if it doesn't exist
+# Copy the entire directory
+print(f"Copied {src} to {dst}")
+
+
+--- Cell 3 Pseudocode ---
+import cv2
+import pandas as pd
+import os
+# Function to extract frames
+def extract_frames(video_file_path, times_in_seconds, output_folder):
+while cap.isOpened():
+if not ret:
+break
+if current_time in times_in_seconds:
+return frame_info
+# Directory containing videos
+# Load positions from the CSV file
+# Convert positions to lists of integers
+# Process each video file
+for video_file in os.listdir(video_directory):
+# Concatenate, flatten, and remove duplicates from positions
+# Create output folder for this video
+# Extract frames
+# Save frame information to a new CSV file
+print("Frames extracted and saved.")
+print(f"Frame information saved to {frames_csv_path}")
+
+
+--- Cell 4 Pseudocode ---
+import pandas as pd
+import numpy as np
+import cv2
+import joblib
+import os
+# Load the dataset
+# Function to preprocess images
+def preprocess_image(filepath):
+if not os.path.exists(filepath):
+print(f"File not found: {filepath}")
+return None
+if img is None:
+print(f"Failed to read image: {filepath}")
+return None
+return img
+# Apply preprocessing to each image and prepare labels
+for idx, fp in enumerate(df['Frame Path']):
+if processed_img is not None:
+# Extract HOG features from the images
+# Split the dataset
+# Load the saved model
+# Evaluate the model
+# Calculate evaluation metrics
+# Print evaluation metrics
+print(f"Test accuracy: {accuracy*100:.2f}%")
+print(f"Precision: {precision:.2f}")
+print(f"Recall: {recall:.2f}")
+print(f"F1 Score: {f1:.2f}")
+# Save results in a pandas DataFrame
+# Save the DataFrame to a CSV file
+print(f"Results saved to {results_file}")
+
+
+--- Cell 5 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 6 Pseudocode ---
+import pandas as pd
+import numpy as np
+import cv2
+import tensorflow as tf
+import os
+# Load the dataset
+# Function to preprocess images
+def preprocess_image(filepath):
+if not os.path.exists(filepath):
+print(f"File not found: {filepath}")
+return None
+if img is None:
+print(f"Failed to read image: {filepath}")
+return None
+return img
+# Apply preprocessing to each image and prepare labels
+for idx, fp in enumerate(df['Frame Path']):
+if processed_img is not None:
+# One-hot encode labels for categorical crossentropy
+# Split the dataset
+# Load the saved TensorFlow model
+# Evaluate the loaded model
+print(f"Test Loss: {test_loss}, Test Accuracy: {test_accuracy}")
+# Make predictions
+# Calculate evaluation metrics
+# Print evaluation metrics
+print(f"Accuracy: {accuracy*100:.2f}%")
+print(f"Precision: {precision:.2f}")
+print(f"Recall: {recall:.2f}")
+print(f"F1 Score: {f1:.2f}")
+# Save results in a pandas DataFrame
+# Path to the results file
+# Check if the results file exists
+if os.path.exists(results_file):
+# If it exists, read the existing data
+# Append the new results
+# Save the DataFrame to the CSV file
+print(f"Results saved to {results_file}")
+
+
+--- Cell 7 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 8 Pseudocode ---
+import librosa
+import numpy as np
+import tensorflow as tf
+import os
+import pandas as pd
+import joblib
+# Function to extract features from audio files
+def extract_features(file_path):
+return features
+# Folder containing audio files
+# List to store audio file paths and sentiment labels
+# Iterate through files in the folder
+for file_name in os.listdir(audio_folder):
+if os.path.isfile(os.path.join(audio_folder, file_name)):
+# Load sentiment labels from a CSV file
+# Create a dataset (X, y) with features and labels
+# Encode labels
+# Check label distribution
+print("Label distribution:", dict(zip(unique, counts)))
+# Split the dataset into training and testing sets
+# Standardize the features
+# Save the scaler for later use
+# Reshape for LSTM input
+# Define early stopping and model checkpoint callbacks
+# Build a neural network model with LSTM layers
+# Compile the model
+# Train the model with callbacks
+# Evaluate the best model on the test set
+# Print evaluation metrics
+print(f"Accuracy: {accuracy*100:.2f}%")
+print(f"Precision: {precision:.2f}")
+print(f"Recall: {recall:.2f}")
+print(f"F1 Score: {f1:.2f}")
+# Save results in a pandas DataFrame
+# Path to the results file
+# Check if the results file exists
+if os.path.exists(results_file):
+# If it exists, read the existing data
+# Append the new results
+# Save the DataFrame to the CSV file
+print(f"Results saved to {results_file}")
+
+
+--- Cell 9 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 10 Pseudocode ---
+import librosa
+import os
+import numpy as np
+import pandas as pd
+import joblib
+# Function to extract audio features
+def extract_features(file_path):
+return np.concatenate((mfccs, chroma, mel, spectral_contrast, tonnetz))
+# Folder containing audio files
+# List to store audio file paths and sentiment labels
+# Iterate through files in the folder and extract sentiment labels
+for file_name in os.listdir(audio_folder):
+if os.path.isfile(os.path.join(audio_folder, file_name)):
+# Read sentiment labels from a CSV file
+# Create a dataset (X, y) with features and labels
+# Split the dataset into training and testing sets
+# Load the scaler
+# Standardize the features
+# Load the saved model
+# Evaluate the loaded model
+# Print evaluation metrics
+print(f"Accuracy: {accuracy*100:.2f}%")
+print(f"Precision: {precision:.2f}")
+print(f"Recall: {recall:.2f}")
+print(f"F1 Score: {f1:.2f}")
+# Save results in a pandas DataFrame
+# Path to the results file
+# Check if the results file exists
+if os.path.exists(results_file):
+# If it exists, read the existing data
+# Append the new results
+# Save the DataFrame to the CSV file
+print(f"Results saved to {results_file}")
+
+
+--- Cell 11 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 12 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 13 Pseudocode ---
+import torch
+import numpy as np
+import pandas as pd
+import plotly.graph_objs as go
+# Load your dataset
+# Tokenize the reviews using BERT tokenizer
+# Tokenize and encode the reviews
+for review in df['Sentence']:
+return_attention_mask=True,
+return_tensors='pt'
+# Do the same for df1
+for review in df1['Sentence']:
+return_attention_mask=True,
+return_tensors='pt'
+# Load the labels
+# Concatenate inputs and labels
+# Split the dataset into training and validation sets
+# Create DataLoader
+# Load pre-trained BERT model for sentiment classification
+# Set up optimizer and learning rate scheduler
+# Evaluation loop
+for batch in val_dataloader:
+# Calculate accuracy
+print(f'Accuracy: {accuracy * 100:.2f}%')
+# Generate confusion matrix
+print('Confusion Matrix:')
+print(conf_matrix)
+# Print classification report
+print('Classification Report:')
+print(class_report)
+# Visualize the results
+# Calculate precision, recall, and F1-score
+# Create an interactive confusion matrix
+# Confusion Matrix
+# Accuracy Bar Chart
+# Precision Bar Chart
+# Recall Bar Chart
+# Save the results to a CSV file
+# Path to the results file
+# Check if the results file exists
+if os.path.exists(results_file):
+# If it exists, read the existing data
+# Append the new results
+# Save the DataFrame to the CSV file
+print(f"Results saved to {results_file}")
+
+
+--- Cell 14 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 15 Pseudocode ---
+import numpy as np
+import pandas as pd
+import re
+import nltk
+import joblib
+import seaborn as sns
+import matplotlib.pyplot as plt
+# Load your dataset
+# Function to remove unwanted characters
+def removing_unwanted_data(text):
+return text
+# Apply preprocessing
+# Custom tokenizer function
+def custom_tokenizer(doc):
+return doc
+# Load the saved vectorizer and model
+# Transform the data using the loaded vectorizer
+# Split the dataset into training and testing sets
+# Evaluate the loaded model
+# Print evaluation metrics
+print(f'Accuracy: {accuracy * 100:.2f}%')
+print(f'Precision: {precision:.2f}')
+print(f'Recall: {recall:.2f}')
+print(f'F1 Score: {f1:.2f}')
+# Generate confusion matrix
+print('Confusion Matrix:')
+print(conf_matrix)
+# Visualize the results
+# Save results in a pandas DataFrame
+# Path to the results file
+# Check if the results file exists and handle the append operation correctly
+if os.path.exists(results_file):
+# If it exists, read the existing data
+# Append the new results
+print(f"Results saved to {results_file}")
+
+
+--- Cell 16 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 17 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 10 rows
+print("Original DataFrame:")
+print(results_df.head(10))
+# Delete the last row
+# Save the updated DataFrame back to the CSV file
+# Verify the last row has been deleted
+print("Updated DataFrame:")
+
+
+--- Cell 18 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 19 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Save the updated DataFrame back to the CSV file
+# Verify the second row has been deleted
+print("Updated DataFrame:")
+
+
+--- Cell 20 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Swap the 4th and 6th rows (index 3 and 5 since it's zero-indexed)
+# Save the updated DataFrame back to the CSV file
+# Verify the rows have been swapped
+print("Updated DataFrame:")
+
+
+--- Cell 21 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 22 Pseudocode ---
+
+
+
+--- Cell 23 Pseudocode ---
+
+
+
+--- Cell 24 Pseudocode ---
+import librosa
+import numpy as np
+import tensorflow as tf
+import pandas as pd
+import os
+# Load the dataset
+# Get the first audio file
+# Load the pre-trained model
+# Helper function for audio feature extraction
+def extract_features(file_path):
+return features
+# Predict audio sentiment
+# Save results to a DataFrame
+# Save to CSV for combining later
+print("Results saved to /content/drive/MyDrive/work2/Validation_Data/Temp_results_audio1.csv")
+
+
+--- Cell 25 Pseudocode ---
+import librosa
+import numpy as np
+import pandas as pd
+import joblib
+import os
+# Load the dataset
+# Get the first audio file
+# Load the pre-trained model
+# Helper function for audio feature extraction
+def extract_features(file_path):
+return features
+# Predict audio sentiment
+# Save results to a DataFrame
+# Save to CSV for combining later
+print("Results saved to /content/drive/MyDrive/work2/Validation_Data/Temp_results_audio2.csv")
+
+
+--- Cell 26 Pseudocode ---
+import torch
+import numpy as np
+import pandas as pd
+# Load the dataset
+# Get the first text transcription
+# Load the pre-trained model and tokenizer
+# Tokenize and encode the text
+return_attention_mask=True,
+return_tensors='pt'
+# Create DataLoader
+# Predict text sentiment
+for batch in dataloader:
+# Save results to a DataFrame
+# Save to CSV for combining later
+print("Results saved to /content/drive/MyDrive/work2/Validation_Data/Temp_results_text1.csv")
+
+
+--- Cell 27 Pseudocode ---
+import pandas as pd
+import numpy as np
+import re
+import nltk
+import joblib
+# Load the dataset
+# Get the first text transcription
+# Function to remove unwanted characters
+def removing_unwanted_data(text):
+return text
+# Apply preprocessing
+# Redefine custom tokenizer function
+def custom_tokenizer(doc):
+return doc
+# Load the saved vectorizer and model
+# Transform the data using the loaded vectorizer
+# Predict text sentiment
+# Save results to a DataFrame
+# Save to CSV for combining later
+print("Results saved to /content/drive/MyDrive/work2/Validation_Data/Temp_results_text2.csv")
+
+
+--- Cell 28 Pseudocode ---
+import numpy as np
+import pandas as pd
+import cv2
+import tensorflow as tf
+import os
+# Load the datasets
+# Get the first video name
+# Get the frames corresponding to the first video and key frames only
+# Load the pre-trained model
+# Helper function for video feature extraction
+def preprocess_image(filepath):
+if img is None:
+print(f"Failed to read image: {filepath}")
+return None
+return img
+# Predict video sentiment
+for frame_path in first_video_frames['Frame Path']:
+if video_image is not None:
+if predictions:
+# Average predictions
+# Save results to a DataFrame
+# Save to CSV for combining later
+print("Results saved to /content/drive/MyDrive/work2/Validation_Data/Temp_results_video1.csv")
+print("No valid frames were processed.")
+
+
+--- Cell 29 Pseudocode ---
+
+
+
+--- Cell 30 Pseudocode ---
+import numpy as np
+import pandas as pd
+import cv2
+import joblib
+# Load the datasets
+# Get the first video name
+# Get the frames corresponding to the first video and key frames only
+# Load the pre-trained model
+# Helper function for video feature extraction
+def preprocess_image(filepath):
+if img is None:
+print(f"Failed to read image: {filepath}")
+return None
+return hog_features
+# Predict video sentiment
+for frame_path in first_video_frames['Frame Path']:
+if video_features is not None:
+if predictions:
+# Average predictions
+# Save results to a DataFrame
+# Save to CSV for combining later
+print("Results saved to /content/drive/MyDrive/work2/Validation_Data/Temp_results_video2.csv")
+print("No valid frames were processed.")
+
+
+--- Cell 31 Pseudocode ---
+import os
+import pandas as pd
+# Load individual model results
+# Load the videos dataset to get the actual sentiment
+# Combine all results into a single DataFrame
+# Print the combined results for verification
+print("Combined Model Results:")
+print(ensemble_results)
+# Calculate the final sentiment based on weighted averages
+# You can adjust the weights as needed
+# Apply weights to the percentages
+# Determine the maximum predicted sentiment among all six modalities
+# Update weights with an additional parameter for the maximum predicted sentiment
+# Determine the final sentiment by selecting the sentiment with the highest weighted percentage
+# Get the actual sentiment for the first video
+# Print the final sentiment
+print("\nFinal Ensemble Sentiment Result:")
+print(final_sentiment)
+# Capture dynamic values for 'Modality' and 'Percentage'
+# Save the final result to a CSV file
+# Define the path to the CSV file
+# Check if the file exists and save accordingly
+if not os.path.exists(csv_file_path):
+# If the file does not exist, create it with the header
+# If the file exists, append without the header
+print(f"Final ensemble result saved to {csv_file_path}")
+
+
+--- Cell 32 Pseudocode ---
+import pandas as pd
+# Read the CSV file
+# Show the first 5 rows
+
+
+--- Cell 33 Pseudocode ---
+
+
+
+--- Cell 34 Pseudocode ---
+import pandas as pd
+# Load your evaluation metrics DataFrame
+# Drop the third row (index 1)
+# Save the modified DataFrame back to the CSV file
+print("Record at row 1 has been deleted and the file has been saved.")
+#results_df.drop([1, 2], axis=0, inplace=True)
+#results_df.to_csv('/content/drive/MyDrive/work2/Final/Final_Evaluation_Ensemble_Result.csv', index=False)
+
+
+--- Cell 35 Pseudocode ---
+print("Test")
+
+
+--- Cell 36 Pseudocode ---
+import os
+import pandas as pd
+# Load individual model results
+# Load the videos dataset to get the actual sentiment
+# Define weights for each model
+# Phase 1: Fusion within each modality
+def fuse_modality_pair(model1, model2, weight1, weight2):
+return combined.loc[combined['Weighted Percentage'].idxmax()]
+# Combine results from all modalities
+print("Phase 1 Results (Fusion within each modality):")
+print(phase1_results[['Modality', 'Sentiment', 'Percentage', 'Weighted Percentage']])
+# Phase 2: Fusion across modalities
+# Calculate Final Weighted Percentage
+# Determine the final sentiment
+# Get the actual sentiment for the first video
+print("\nFinal Ensemble Sentiment Result:")
+print(final_sentiment)
+# Save the final result to a CSV file
+# Define the path to the CSV file
+# Check if the file exists and save accordingly
+if not os.path.exists(csv_file_path):
+print(f"Final ensemble result saved to {csv_file_path}")
+
+
+--- Cell 37 Pseudocode ---
+
+
+
+--- Cell 38 Pseudocode ---
+import librosa
+import numpy as np
+import tensorflow as tf
+import pandas as pd
+import os
+# Load the dataset
+# Load the pre-trained model
+# Helper function for audio feature extraction
+def extract_features(file_path):
+return features
+# Function to predict audio sentiment
+def predict_audio_sentiment(audio_file):
+return {
+# Process the first two audio files
+for i in range(111):
+# Save individual result to CSV
+print(f"Results saved to {output_path}")
+
+
+--- Cell 39 Pseudocode ---
+
+
+
+--- Cell 40 Pseudocode ---
+
+
+
+--- Cell 41 Pseudocode ---
+import librosa
+import numpy as np
+import pandas as pd
+import joblib
+import os
+# Load the dataset
+# Load the pre-trained model and scaler
+# Helper function for audio feature extraction
+def extract_features(file_path):
+return features
+# Function to predict audio sentiment
+def predict_audio_sentiment(audio_file):
+return {
+# Process the first two audio files
+for i in range(111):
+# Save individual result to CSV
+print(f"Results saved to {output_path}")
+
+
+--- Cell 42 Pseudocode ---
+import torch
+import numpy as np
+import pandas as pd
+# Load the dataset
+# Load the pre-trained model and tokenizer
+def predict_text_sentiment(text):
+# Tokenize and encode the text
+return_attention_mask=True,
+return_tensors='pt'
+# Create DataLoader
+# Predict text sentiment
+for batch in dataloader:
+return {
+# Process the first two text transcriptions
+for i in range(111):
+# Save individual result to CSV
+print(f"Results saved to {output_path}")
+
+
+--- Cell 43 Pseudocode ---
+import pandas as pd
+import numpy as np
+import re
+import nltk
+import joblib
+# Load the dataset
+# Function to remove unwanted characters
+def removing_unwanted_data(text):
+return text
+# Redefine custom tokenizer function
+def custom_tokenizer(doc):
+return doc
+# Load the saved vectorizer and model
+def predict_text_sentiment(text):
+# Apply preprocessing
+# Transform the data using the loaded vectorizer
+# Predict text sentiment
+return {
+# Process the first two text transcriptions
+for i in range(111):
+# Save individual result to CSV
+print(f"Results saved to {output_path}")
+
+
+--- Cell 44 Pseudocode ---
+import numpy as np
+import pandas as pd
+import cv2
+import tensorflow as tf
+import os
+# Load the datasets
+# Load the pre-trained model
+# Helper function for video feature extraction
+def preprocess_image(filepath):
+if not os.path.exists(filepath):
+print(f"File does not exist: {filepath}")
+return None
+if img is None:
+print(f"Failed to read image: {filepath}")
+return None
+return img
+print(f"Error processing image {filepath}: {str(e)}")
+return None
+def predict_video_sentiment(video_name):
+# Get the frames corresponding to the video and key frames only
+for _, row in video_frames.iterrows():
+if video_image is not None:
+if predictions:
+# Average predictions
+return {
+print(f"No valid frames were processed for video: {video_name}")
+return None
+# Process the first two videos
+for i in range(111):
+print(f"Processing video: {video_name}")
+# Print some debug information
+print(f"Number of key frames for video {video_name}: {len(video_frames)}")
+print("First few frame paths:")
+print(video_frames['Frame Path'].head())
+if result:
+# Save individual result to CSV
+print(f"Results saved to {output_path}")
+print(f"Failed to process video: {video_name}")
+# Print the first few rows of the frames_df to verify the data
+print("\nFirst few rows of frames_df:")
+print(frames_df.head())
+# Print the first few rows of the videos_df to verify the data
+print("\nFirst few rows of videos_df:")
+print(videos_df.head())
+
+
+--- Cell 45 Pseudocode ---
+import numpy as np
+import pandas as pd
+import cv2
+import joblib
+# Load the datasets
+# Load the pre-trained model
+# Helper function for video feature extraction
+def preprocess_image(filepath):
+if img is None:
+print(f"Failed to read image: {filepath}")
+return None
+return hog_features
+def predict_video_sentiment(video_name):
+# Get the frames corresponding to the video and key frames only
+for frame_path in video_frames['Frame Path']:
+if video_features is not None:
+if predictions:
+# Average predictions
+return {
+print(f"No valid frames were processed for video: {video_name}")
+return None
+# Process the first two videos
+for i in range(111):
+if result:
+# Save individual result to CSV
+print(f"Results saved to {output_path}")
+print(f"Failed to process video: {video_name}")
+
+
+--- Cell 46 Pseudocode ---
+import pandas as pd
+def display_final_results():
+# Remove '\n' characters from all string columns
+for column in results_df.columns:
+if results_df[column].dtype == 'object':
+print("Final Ensemble Results:")
+print(results_df.to_string(index=False))
+print(f"Error: The file {csv_file_path} was not found.")
+print(f"Error: The file {csv_file_path} is empty.")
+print(f"An error occurred while reading the file: {str(e)}")
+# Call the function to display the results
+
+
+--- Cell 47 Pseudocode ---
+import os
+import pandas as pd
+# Load the videos dataset to get the actual sentiment
+# Define weights for each model
+# Function to process each video
+def process_file(file_number, video_name):
+# Load results from all models for the given file_number
+# Combine all results into a single DataFrame
+# Apply weights to the percentages
+# Determine the maximum predicted sentiment among all six modalities
+# Update weights with an additional parameter for the maximum predicted sentiment
+# Determine the final sentiment by selecting the sentiment with the highest weighted percentage
+# Get the actual sentiment for the video from the videos_df
+# Capture dynamic values for 'Modality' and 'Percentage'
+# Return the results
+return {
+# Create an empty list to store results
+# Loop through all the videos in the Meta_Data
+for index, row in videos_df.iterrows():
+# Process each file and append the results
+# Convert the results to a DataFrame
+# Define the path to the CSV file
+# Check if the file exists and save accordingly
+if not os.path.exists(csv_file_path):
+# If the file does not exist, create it with the header
+# If the file exists, append without the header
+print(f"Final ensemble result saved to {csv_file_path}")
+
+
+--- Cell 48 Pseudocode ---
+import pandas as pd
+# Read the CSV file into a pandas DataFrame
+# Display the first 5 instances
+
+
+--- Cell 49 Pseudocode ---
+import os
+import pandas as pd
+# Load the videos dataset to get the actual sentiment
+# Define weights for each model
+# Function to process each video
+def process_file(file_number, video_name):
+# Load results from all models for the given file_number
+# Combine all results into a single DataFrame
+# Apply weights to the percentages
+# Determine the maximum predicted sentiment among all six modalities
+# Update weights with an additional parameter for the maximum predicted sentiment
+# Determine the final sentiment by selecting the sentiment with the highest weighted percentage
+# Get the actual sentiment for the video from the videos_df
+# Capture dynamic values for 'Modality' and 'Percentage'
+# Return the results
+return {
+# Create an empty list to store results
+# Loop through all the videos in the Meta_Data
+for index, row in videos_df.iterrows():
+# Process each file and append the results
+# Convert the results to a DataFrame
+# Define the path to the CSV file
+# Check if the file exists and save accordingly
+if not os.path.exists(csv_file_path):
+# If the file does not exist, create it with the header
+# If the file exists, append without the header
+print(f"Final ensemble result saved to {csv_file_path}")
+
+
+--- Cell 50 Pseudocode ---
+import os
+import pandas as pd
+# Define weights for each model for evaluation
+def process_modality_pair(model1, model2, weight1, weight2):
+return combined.loc[combined['Weighted Percentage'].idxmax()]
+def process_file(file_number, video_name):
+# Load results from all models for the given file_number
+# Process each modality pair
+# Combine results from all modalities
+print(f"\nCombined Model Results for file {file_number} ({video_name}):")
+print(ensemble_results[['Modality', 'Sentiment', 'Percentage']])
+# Determine the final sentiment
+print(f"\nFinal Ensemble Sentiment Result for file {file_number} ({video_name}):")
+print(final_sentiment)
+return final_sentiment
+# Load the videos dataset to get the actual sentiment
+# Process the files for evaluation
+for i in range(1, len(videos_df) + 1):
+# Get the actual sentiment for the video
+# Create a DataFrame with the final results
+# Define the path to the CSV file
+# Save the results
+if not os.path.exists(csv_file_path):
+print(f"\nFinal ensemble results saved to {csv_file_path}")
+print("\nFinal Results:")
+print(final_result_df.to_string(index=False))
+
+
+--- Cell 51 Pseudocode ---
+import pandas as pd
+# Read the CSV file into a pandas DataFrame
+# Display the first 5 instances
+
+
+--- Cell 52 Pseudocode ---
+import os
+import pandas as pd
+import re
+# Define weights for each model for evaluation
+# Function to clean up 'Name:', 'dtype:', and other irrelevant text from any column
+def clean_metadata(value):
+if isinstance(value, str):
+return value
+# Function to extract multiple valid floating-point values from columns
+def clean_column_values(value):
+if isinstance(value, str):
+if value:
+return ", ".join(value)
+return value
+# Function to clean and return the predicted sentiment
+def clean_predicted_sentiment(row):
+if isinstance(row['Predicted Sentiment'], str) and '\n' in row['Predicted Sentiment']:
+if abs(percentages[0] - percentages[1]) > 0.6:
+return row
+# Function to clean the 'Modality' column
+def clean_modality(value):
+if isinstance(value, str):
+if modality_matches:
+return ", ".join(modality_matches)
+return value
+# Function to process each modality pair and return the one with the maximum weighted percentage
+def process_modality_pair(model1, model2, weight1, weight2):
+return combined.loc[combined['Weighted Percentage'].idxmax()]
+# Function to process files and determine ensemble results
+def process_file(file_number, video_name):
+print(f"\nCombined Model Results for file {file_number} ({video_name}):")
+print(ensemble_results[['Modality', 'Sentiment', 'Percentage']])
+print(f"\nFinal Ensemble Sentiment Result for file {file_number} ({video_name}):")
+print(final_sentiment)
+return final_sentiment
+# Load the videos dataset to get actual sentiment
+for i in range(1, len(videos_df) + 1):
+# Clean the DataFrame
+# Apply sentiment cleaning
+# Define the path to the cleaned CSV file
+# Save the cleaned results
+if not os.path.exists(cleaned_csv_file_path):
+print(f"\nCleaned ensemble results saved to {cleaned_csv_file_path}")
+print("\nCleaned Final Results:")
+print(final_result_df.to_string(index=False))
+
+
+--- Cell 53 Pseudocode ---
+
+
+
+--- Cell 54 Pseudocode ---
+import os
+import pandas as pd
+import re
+# Define weights for each model for evaluation
+# Function to clean up 'Name:', 'dtype:', and other irrelevant text from any column
+def clean_metadata(value):
+if isinstance(value, str):
+return value
+# Function to extract multiple valid floating-point values from columns
+def clean_column_values(value):
+if isinstance(value, str):
+if value:
+return ", ".join(value)
+return value
+# Function to clean and return the predicted sentiment
+def clean_predicted_sentiment(row):
+if isinstance(row['Predicted Sentiment'], str) and '\n' in row['Predicted Sentiment']:
+if abs(percentages[0] - percentages[1]) > 0.6:
+return row
+# Function to clean the 'Modality' column
+def clean_modality(value):
+if isinstance(value, str):
+if modality_matches:
+return ", ".join(modality_matches)
+return value
+# Function to process each modality pair and return the one with the maximum weighted percentage
+def process_modality_pair(model1, model2, weight1, weight2):
+return combined.loc[combined['Weighted Percentage'].idxmax()]
+# Function to process files and determine ensemble results
+def process_file(file_number, video_name):
+print(f"\nCombined Model Results for file {file_number} ({video_name}):")
+print(ensemble_results[['Modality', 'Sentiment', 'Percentage']])
+print(f"\nFinal Ensemble Sentiment Result for file {file_number} ({video_name}):")
+print(final_sentiment)
+return final_sentiment
+# Load the videos dataset to get actual sentiment
+for i in range(1, len(videos_df) + 1):
+# Reset the index to ensure uniqueness
+# Save results before cleaning
+if not os.path.exists(uncleaned_csv_file_path):
+print(f"\nUncleaned ensemble results saved to {uncleaned_csv_file_path}")
+# Clean the DataFrame
+# Apply sentiment cleaning
+# Define the path to the cleaned CSV file
+# Save the cleaned results
+if not os.path.exists(cleaned_csv_file_path):
+print(f"\nCleaned ensemble results saved to {cleaned_csv_file_path}")
+print("\nCleaned Final Results:")
+print(final_result_df.to_string(index=False))
+
+
+--- Cell 55 Pseudocode ---
+import pandas as pd
+import re
+# Load the uncleaned CSV file
+# Function to clean up 'Name:', 'dtype:', and other irrelevant text from any column
+def clean_metadata(value):
+if isinstance(value, str):
+return value
+# Function to extract valid floating-point numbers from columns
+def clean_column_values(value):
+if isinstance(value, str):
+if value:
+return ", ".join(value)  # Return all valid floating-point numbers as a string
+return value
+# Apply cleaning to 'Weighted Percentage', 'Percentage', and 'Modality' columns
+# Function to clean the 'Modality' column and keep full model names while removing standalone '1' or '0'
+def clean_modality(value):
+if isinstance(value, str):
+if modality_matches:
+return ", ".join(modality_matches)
+return value
+# Apply the cleaning function to the 'Modality' column
+# Enhanced function to determine the final predicted sentiment based on improved logic
+def determine_final_sentiment(row):
+# Extract the percentages and corresponding sentiments
+# Define a threshold for sentiment confidence with enhanced logic
+# Handle cases with multiple models and results
+if len(percentages) >= 2:
+# Improved decision logic with higher emphasis on weighted percentages
+if positive_confidence >= positive_threshold and weighted_percentages[0] >= positive_threshold:
+# Default to neutral if no clear decision can be made
+return row
+# Apply the new sentiment determination logic
+# Function to process and compare results to select the final best sentiment
+def process_final_results(df):
+for i in range(len(df)):
+# Process results by selecting highest confidence score and return cleaned values
+return pd.DataFrame(final_results)
+# Process the results
+# Select only the required columns
+# Save the cleaned results to a new CSV file
+print(f"\nCleaned ensemble results saved to {cleaned_csv_file_path}")
+print("\nCleaned Final Results:")
+print(final_result_df.to_string(index=False))
+
+
+--- Cell 56 Pseudocode ---
+import pandas as pd
+# Load the cleaned results file
+# Define the mapping of Predicted Sentiment to Actual Sentiment values
+# Function to calculate accuracy
+def calculate_accuracy(df):
+# Ensure that the 'Actual Senti' and 'Predicted Sentiment' are in the same format
+# Map Predicted Sentiment to the corresponding numerical value
+# Calculate correct predictions
+# Calculate total number of predictions
+# Calculate accuracy as a percentage
+return accuracy
+# Calculate accuracy and print the result
+print(f"Accuracy: {accuracy:.2f}%")
+
+
+--- Cell 57 Pseudocode ---
+import pandas as pd
+# Load the cleaned results file
+# Define the mapping of Predicted Sentiment to Actual Sentiment values
+# Function to calculate accuracy
+def calculate_accuracy(df):
+# Ensure that the 'Actual Senti' and 'Predicted Sentiment' are in the same format
+# Map Predicted Sentiment to the corresponding numerical value
+# Calculate correct predictions
+# Calculate total number of predictions
+# Calculate accuracy as a percentage
+return accuracy
+# Calculate accuracy
+print(f"Accuracy: {accuracy:.2f}%")
+# Generate the classification report
+# Convert the classification report to a DataFrame for better visualization
+# Display the classification report in table format
+print("\nClassification Report for Evaluation (Table Format):")
+print(classification_df)
+# If you want to display specific columns (like precision, recall, f1-score, and support):
+print("\nSimplified Report:")
+print(classification_df[columns_to_display])
+
+
+--- Cell 58 Pseudocode ---
+
+
+
+--- Cell 59 Pseudocode ---
